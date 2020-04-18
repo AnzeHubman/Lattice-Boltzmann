@@ -45,7 +45,7 @@
 
 MODULE params
   INTEGER, PARAMETER :: xmax = 1500         !Number of nodes along x-axis
-  INTEGER, PARAMETER :: ymax = 201          !Number of nodey along y-axis
+  INTEGER, PARAMETER :: ymax = 201          !Number of nodes along y-axis
   INTEGER, PARAMETER :: nstp = 15000        !Number of time steps
   INTEGER, PARAMETER :: rc   = 25.0D0       !Cylinder radius
   REAL*8,  PARAMETER :: tau  = 0.757D0      !Relaxation parameter
