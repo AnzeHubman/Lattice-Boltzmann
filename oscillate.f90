@@ -19,7 +19,7 @@
 ! forcing is applied at the cylinder to ensure no-slip condition.   !
 ! Inlet and outlet are subjected to periodic boundary conditions,   !
 ! while at the top and bottom half-way bounce back is used. Motion  !
-! of a cylinder is described as: y(t) = A*sin(omega*t).             !
+! of a cylinder is described as: y(t) =y0 + A*sin(omega*t).         !
 !===================================================================!
 
 !================================================================================!
