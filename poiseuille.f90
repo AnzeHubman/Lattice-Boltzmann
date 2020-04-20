@@ -79,7 +79,7 @@ PROGRAM gravity
   END DO
 
   !produce output
-  OPEN(UNIT=11, FILE="output_1")
+  OPEN(UNIT=11, FILE="output")
   !output structure: x y pressure ux uy u
   DO i = 1, N_z
      DO j = 1, N_x
