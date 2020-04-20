@@ -1,5 +1,5 @@
 # Lattice-Boltzmann
-This is a collection of my LBM codes written in Fortran 90/95, mainly combined with immersed boundary condition. Code descriptions are given at the beginning of each program. For simple visualisation of velocity field and pressure distribution
+This is a collection of my LBM codes written in Fortran 90/95. Code descriptions are given at the beginning of each program. For simple visualisation of velocity field and pressure distribution
 a Gnuplot script is added.
 
 Steady flow around a cylinder:
