@@ -6,4 +6,5 @@ Steady flow around a cylinder:
 ![cylinder1](https://user-images.githubusercontent.com/37169654/79635562-fb8f9500-8171-11ea-947e-354fe18889c4.png)
 
 Lid driven cavity flow:
-![cavy](https://user-images.githubusercontent.com/37169654/79721880-63b1b880-82e3-11ea-970e-951a03bc71f4.png)
+![cavity_slow](https://user-images.githubusercontent.com/37169654/79743910-bdc37580-8305-11ea-8cca-9be4c1a28b3f.gif)
+
